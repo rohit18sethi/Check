@@ -1,2 +1,2 @@
 # Check
-pawssord correction
+password correction
